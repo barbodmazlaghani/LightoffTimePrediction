@@ -1,0 +1,1 @@
+We used visualization as a very useful tool, first we could detect abnormality it trips also we could compare our extracted and augmented slices with reference datas(like NEDC, red line in plots)

@@ -1,0 +1,1 @@
+first we trained a model in lightoff_pred.ipynb then we tried to change its input from a specific size like 600 to dynamic value that can get and predict inputs with different sizes.

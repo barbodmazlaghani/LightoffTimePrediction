@@ -1,0 +1,1 @@
+First we need to extract our slices from two sample data files, we need to only find intervals that engine at start is cold and record it until we reach optimal temperature. we generate a separate csv file for each of these, then we used an innovative approach to apply data augmentation on these slices to create final trips.
